@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41fef56b.chunk.css",
+    "main.js": "/static/js/main.7910b254.chunk.js",
+    "main.js.map": "/static/js/main.7910b254.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9a213e67.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9a213e67.js.map",
+    "static/css/2.679831fc.chunk.css": "/static/css/2.679831fc.chunk.css",
+    "static/js/2.cc98b898.chunk.js": "/static/js/2.cc98b898.chunk.js",
+    "static/js/2.cc98b898.chunk.js.map": "/static/js/2.cc98b898.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.41fef56b.chunk.css.map": "/static/css/main.41fef56b.chunk.css.map",
+    "static/js/2.cc98b898.chunk.js.LICENSE.txt": "/static/js/2.cc98b898.chunk.js.LICENSE.txt",
+    "static/media/DustInTheWind.a645fe50.mp3": "/static/media/DustInTheWind.a645fe50.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
+    "static/media/profile-img.472b3646.png": "/static/media/profile-img.472b3646.png",
+    "static/media/spaceman.5ec7fcfa.png": "/static/media/spaceman.5ec7fcfa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a213e67.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.cc98b898.chunk.js",
+    "static/css/main.41fef56b.chunk.css",
+    "static/js/main.7910b254.chunk.js"
+  ]
+}
